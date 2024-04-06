@@ -1,1 +1,3 @@
 # DSA
+
+Do contests regularly
